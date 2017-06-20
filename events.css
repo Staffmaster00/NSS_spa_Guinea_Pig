@@ -1,0 +1,16 @@
+.color{
+	color: blue;
+	display: block;
+}
+.size{
+	font-size: 120%;
+	display: block;
+}
+.border{
+	border: solid;
+	display: block;
+}
+.round{
+	border-radius: 15%;
+	display: block;
+}
